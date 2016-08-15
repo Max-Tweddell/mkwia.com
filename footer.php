@@ -1,8 +1,8 @@
 <footer>
     <div id="footer-left">
-        <p>1mkwiaF9i56rvWbdbGQXUDZhQpC9n9oGf</p>
+        <p>[no bitcoin address right now]</p>
         <br>
-        <p>hello@mkwia.com</p>
+        <p>mk@mkwia.com</p>
         <br>
     </div>
     <div id="footer-right">
@@ -11,9 +11,9 @@
         <p class="pi">
             &pi;
             <span class="overlay overlay-pipe">|</span>
-            <span class="overlay">Last Edited: 23 June 2016 18:08</span>
+            <span class="overlay">Last Edited: 15 August 2016 14:46</span>
             <span class="overlay overlay-pipe">|</span>
-            <span class="overlay">"What are you looking at?"</span>
+            <span class="overlay">"pls gtfo"</span>
         </p>
         <br>
     </div>
