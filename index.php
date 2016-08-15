@@ -10,7 +10,7 @@
         <div class="main">
             <div id="main-header">
                 <h1 class="main-header-name"><a href="/">mkwia.com</a></h1>
-                <h2>This is my home.</h2>
+                <h2>Now with 17% more bandwidth!</h2>
             </div>
         </div>
     </body>
