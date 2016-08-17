@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #00FF00;
+}
+hr {
+    border: none;
+    border-top: 1px dashed #00FF00;
+    margin: 2em auto;
+}
+a {
+    color: #00FF00;
+}
+#body-container {
+    width: 80%;
+    margin: 2em auto;
+}
+section {
+    overflow: hidden;
+}
+#header {
+}
+#content {
+}
+#footer {
+}
+#footer div {
+    width: 50%;
+}
+#footer .f-left {
+    float: left;
+    text-align: left;
+}
+#footer .f-right {
+    float: right;
+    text-align: right;
+}
