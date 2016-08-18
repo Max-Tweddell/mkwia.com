@@ -31,3 +31,6 @@ section {
     float: right;
     text-align: right;
 }
+#pi {
+    cursor: pointer;
+}
