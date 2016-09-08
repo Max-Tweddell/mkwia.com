@@ -6,25 +6,37 @@ body {
 }
 hr {
     border: none;
-    border-top: 1px dotted #FFC01B;
+    border-top: 1px dashed #FFC01B;
     margin: 2em auto;
 }
 a {
     color: #FFC01B;
 }
+a + a {
+    padding-left: 0.5em;
+}
 #body-container {
     width: 80%;
-    margin: 2em auto;
+    margin: auto;
 }
-#body-container div {
-    overflow: hidden;
+#header, #content, #footer {
+    margin: 3em 0;
+    display: flex;
 }
 #header {
+    justify-content: space-between;
+    align-items: flex-end;
+}
+#header .left {
+    text-align: left;
+}
+#header .right {
+    text-align: right;
 }
 #content {
+    flex-direction: column;
 }
 #footer {
-    display: flex;
 }
 #footer div {
     width: 50%;
