@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+I hereby declare my intent to always write the words "with the" as "withe".
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJX3TlmAAoJEAIZoXyFupaOkTUQAKedcOhnz/jD430y7qOukNom
+E8b82a1+7s2ra1CkqOO1aw8CpPuiOPkg4+H4Xvg91x2/w48PElUrsPWoSJfceAdw
+rfEFAnV9BcMx8xPmgqlotspehZf8ZMHnN1w55FQsYR68aJ7w3xymcHZeN+6xuz8Z
+xiC1grknoXF9uq0VMZJnAYEWksUO1JNBrptx8tD469kSi//RDr7PjAwL7d9BpDxW
+1YrcDVtrsVxfl9nJb0kVAi07UZ3IkOpjM4OJx0wqUQqxBNl9SxWZJo3WSyjyQHyU
+Zjnf7WSbxTttc1JrjknsmnErc/eXBILWsewQFhjRuaICb9fVe8AbdEjSKx1Z8jHy
+XTViG8N4Dvi/QtpV7hZqKaTlCAt2Ha/uXoWrW6lFFzVBg28V5uS2EfESQGpi0baP
+NM6BXEtmR89ifaqWQ5qjyDVLSIFMtCPjhOYGQSefYolfSxx1msc2r5Sc7L5Pmah5
+iqiI3hSlJkOWYZrIqD7PeZa4o7ugBJgiCu6fm8DYHwDO6azJKFDUL7DXW5l41nTu
+E5gzsE4TprahhTnS4Oq9mMXEkkJPFkLOfRYxZaQ5pX0mAtfjFB9B1rHivpGIJTEU
+eaFTwDjvK+8wcLaJu8MB1lL3e6TGw2Ls+vFW7FL4bmn0ap1cnlAEXG2ub4oVFSfn
+OUJou3K60Z+6xRer5wVT
+=c5CI
+-----END PGP SIGNATURE-----
